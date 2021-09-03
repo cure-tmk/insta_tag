@@ -16,7 +16,7 @@
     "copy-to-clipboard": "^3.3.1",
     "exifreader": "^3.12.0",
     "heic2any": "^0.0.3",
-    "immer": "^7.0.7",
+    "immer": "^9.0.6",
     "lodash": "^4.17.20",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
